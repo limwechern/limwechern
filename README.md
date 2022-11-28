@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @limwechern
 - 👀 I’m interested in Web & Mobile development
-- 🌱 I’m currently learning Flutter Riverpod State Management & AWS Cognito
+- 🌱 I’m currently learning Elasticsearch, Kibana, and Logstash from a Postgres DB
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me: chern8212@gmail.com
 
