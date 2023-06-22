@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @limwechern
 - 👀 I’m interested in Web & Mobile development
-- 🌱 I’m currently learning Data Streaming Pipeline from PostgresSQL to AWS OpenSearch using Apache Kafka
-- 💞️ I’m looking to collaborate on interesting projects
+- 🌱 I’m currently building
+  - 🥏 UltiScore.com
+  - ⏳ UpdateCICO.com
+
 - 📫 How to reach me: chern8212@gmail.com
 
 <!---
