@@ -3,7 +3,6 @@
 - 🌱 I’m currently building: 
   - 🥏 UltiScore.com
   - ⏳ UpdateCICO.com
-  - 📦 stock.updatecico.com
 
 - 📫 How to reach me: chern8212@gmail.com
 
