@@ -2,7 +2,6 @@
 - 👀 I’m interested in Web & Mobile development
 - 🌱 I’m currently building: 
   - 🥏 UltiScore.com
-  - ⏳ UpdateCICO.com
 
 - 📫 How to reach me: chern8212@gmail.com
 
